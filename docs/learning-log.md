@@ -7,13 +7,13 @@
 In this assignment, I learned:
 - [How to create new folders]
 - [That I can click on the brown button after I make a commit to see what things are pending]
-- [A much better understaind of the different types of files in a Github repository]
+- [A much better understanding of the different types of files in a Github repository]
 
 ## Challenges and Solutions
-[Describe 1-2 challenges you faced and how you overcame them. Examples: creating folders in GitHub, understanding the two-repository workflow, writing markdown]
+[My biggest challenge was learning a new platform. I've never seen a site like this. Working through this assignment slowly and intentionally has vastly expanding my udnerstanding of repositories.]
 
 ## Connection to My GIS Career
-[GitHub is an important tool for sharing data. Being able to work in this format not only porvides a clean portfolio for me ]
+[GitHub is an important tool for sharing data. Being able to work in this format not only porovides valuable documentation for my career, it also teaches me what to expect with communicating, collaborating, and finding information on GitHub.]
 
 ## Open Source Workflow Understanding
 Creating my own repository (`hello-gist604b`) mirrors the open source contribution process. In real projects, developers fork existing repositories, make improvements, and submit contributions - similar to how I created this repository and linked it to the assignment system.
